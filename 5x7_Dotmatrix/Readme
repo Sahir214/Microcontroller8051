@@ -1,1 +1,4 @@
-Hello
+Hello chmaps!
+Here I've written a ALP code for 5*7 Dotmatrix display interfaced with 8051 microcontroller. This will display a ABCDE alpabets one by
+one on dotmatrix within a time interval using delay.
+I Hope this code will help you to understand ALP for dotmatrix.🙂😀
